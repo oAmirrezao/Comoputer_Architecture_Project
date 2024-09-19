@@ -18,18 +18,18 @@ Repository Structure
 src/: Contains the source code for both methods.
 docs/: Documentation and reports related to the project.
 tests/: Test cases for validating the algorithms.
-How to Use
+## How to Use
 To clone and run the project, follow these steps:
 
-bash
-Copy code
+```
 git clone <repository-url>
 cd project-directory
 python main.py
+```
 Authors
 Ali Majidi
 Artin Barqi
-Amir Reza Enanlou
+Amirreza Inanloo
 Bardia Rezaei Kalantari
 Supervisor
 Hossein Asadi
